@@ -6,7 +6,6 @@
   </samp>
   <br> <br>
 </p>
-ч
 
 <!-- <h2 align="center">My projects 👨‍💻</h2> -->
 <!-- 
@@ -56,7 +55,7 @@
 <div align="center">
 
 
-<br> <br>
+<br>
 
   ![](https://visitor-badge.glitch.me/badge?page_id=KolEvg)
 

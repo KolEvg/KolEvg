@@ -45,7 +45,7 @@
       <img height=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png"/>
       <img height=50px src="https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-svg-vector.svg"/>
       <img height=50px src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png"/>
-      <img width=50px src="https://uxwing.com/wp-content/themes/uxwing/download/07-web-app-development/rest-api.png"/>     
+      <img width=50px src="https://www.sovereignconsult.com/wp-content/uploads/2020/03/RestApi.png"/>     
       <img height=50px src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>    
 
   <br><br>

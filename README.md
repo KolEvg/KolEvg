@@ -36,7 +36,7 @@
 
 <div align="center">
       <img height=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
-      <img height=50px src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/redux.png"/>
+      <img height=50px src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"/>
       <img height=50px src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png"/>
       <img height=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png"/>
       <img height=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"/>
